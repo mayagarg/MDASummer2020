@@ -1,5 +1,4 @@
 # MDASummer2020
-Summer 2020 Internship
 This repository consists of the compilation of my work with MD Anderson for Summer 2020
 The heatmap files show the step by step data processing and mapping for the microglia specific genes (to run just execute all of the code)--> followed Suerat guided clusternig tutorial
 The scale and ordering files have code to: 
